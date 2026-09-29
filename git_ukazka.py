@@ -1,1 +1,2 @@
 print("Muj prvni projekt propojeny s GitHubem bezi!")
+print("Ahoj svete!")
